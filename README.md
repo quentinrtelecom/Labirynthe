@@ -1,0 +1,2 @@
+# perso
+Some personal projects
